@@ -43,4 +43,7 @@ Forking vs. CloningForking creates a personal copy of someone else’s repositor
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
+Issues and Project BoardsIssues track bugs, tasks, or feature requests, while project boards organize tasks into columns (like To-Do, In Progress, Done).
+Usage: These tools help manage tasks, track progress, and improve project organization.
+
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
